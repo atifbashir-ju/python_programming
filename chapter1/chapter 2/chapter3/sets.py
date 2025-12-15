@@ -27,7 +27,10 @@
 # s.clear() #it will make empty set
 # print(s)
 
-s1 = {1, 2, 3, 78}
-s2 = {90, 78, 67}
+# s1 = {1, 2, 3, 78}
+# s2 = {90, 78, 67}
+# print(s1.union(s2))
+# print(s1.intersection(s2)) #intersection find common value
+s1 = {1,2,3,4}
+s2 = {2,3,4,45}
 print(s1.union(s2))
-print(s1.intersection(s2)) #intersection find common value
