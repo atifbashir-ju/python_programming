@@ -44,3 +44,10 @@ def goodday():
 
 goodday()
 
+
+
+def goodday(name):
+    print("Good day, " + name)
+
+goodday("Atif")
+
