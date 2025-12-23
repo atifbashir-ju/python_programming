@@ -7,7 +7,7 @@ def greatest(a, b, c):
     else:
         return c   # handles the remaining case
 
-a = 1
+a = 34
 b = 4
 c = 89
 
